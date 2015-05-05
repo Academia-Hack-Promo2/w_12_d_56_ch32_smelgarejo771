@@ -1,0 +1,12 @@
+input{
+	margin-top: 10px;
+}
+
+#registro{
+	width: 75%;
+	margin: 10px auto;
+}
+
+.panel-footer{
+	text-align: right;
+}
